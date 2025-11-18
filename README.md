@@ -1,6 +1,7 @@
 # Angela Moon
 
 Visit my [LinkedIn](linkedin.com/in/angela-y-moon)
+
 Contact [ym1721@ic.ac.uk](ym1721@ic.ac.uk)
 
 ---
@@ -9,8 +10,9 @@ Contact [ym1721@ic.ac.uk](ym1721@ic.ac.uk)
 
 I am a final-year MEng Computing student at Imperial College London. My current academic interests include:
 
-* Hardware acceleration for machine learning (CUDA programming)
+* Hardware acceleration for machine learning (CUDA Programming)
 * Decentralised finance and smart contract development (Solidity)
+* Computational modelling and simulation of neuronal activity 
 
 I enjoy connecting low-level systems knowledge with high-level design and product thinking.
 
