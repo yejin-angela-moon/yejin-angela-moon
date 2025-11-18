@@ -1,6 +1,6 @@
 # Angela Moon
 
-Welcome to my Github!
+Welcome to my Github👋
 
 Visit my [LinkedIn](linkedin.com/in/angela-y-moon)
 
@@ -8,37 +8,31 @@ Contact [ym1721@ic.ac.uk](ym1721@ic.ac.uk)
 
 ---
 
-## About Me
+## Who's Angela? 
 
-I am a final-year MEng Computing student at Imperial College London. For this term, I'm currently studying:
-
-* Hardware acceleration for machine learning (CUDA Programming)
-* Decentralised finance and smart contract development (Solidity)
-* Computational modelling and simulation of neuronal activity 
+✏️ I am a final-year MEng Computing student at Imperial College London.
+🌱 I'm currently interested in: 
+  * Hardware acceleration for machine learning (CUDA Programming)
+  * Decentralised finance and smart contract development (Solidity)
 
 I enjoy connecting low-level systems knowledge with high-level design and product thinking.
 
 ---
 
-## Industry Experience
+## Software Engineering Intern — Solidatus
 
-### Software Engineering Intern — Solidatus
-
-Solidatus is a B2B SaaS company building a data lineage platform for global financial institutions.
+💎 Solidatus is a B2B SaaS company building a data lineage platform for global financial institutions.
 During my internship, I:
 
-* Delivered major features in the lineage model editor using TypeScript and C#
 * Built an agentic AI system embedded directly into the model editor
 * Worked closely with UX designers to make the platform more accessible for non-technical users
 * Gained experience in financial data lineage, enterprise data structures, and cross-team engineering
 
 ---
 
-## Research & Final Year Project
+## Final Year Project (in progress)
 
-### Self-Contradiction Detection in Public Figures’ Speech
-
-My final year project focuses on developing an NLP system to identify contradictions in public figures’ statements over time. This involves:
+⚒️ My final year project focuses on developing an NLP system to identify contradictions in public figures’ statements over time. This involves:
 
 * Logical fallacy detection
 * Self-contradiction detection using temporal analysis
