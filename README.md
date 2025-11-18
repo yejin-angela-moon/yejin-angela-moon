@@ -1,5 +1,7 @@
 # Angela Moon
 
+Welcome to my Github!
+
 Visit my [LinkedIn](linkedin.com/in/angela-y-moon)
 
 Contact [ym1721@ic.ac.uk](ym1721@ic.ac.uk)
@@ -8,7 +10,7 @@ Contact [ym1721@ic.ac.uk](ym1721@ic.ac.uk)
 
 ## About Me
 
-I am a final-year MEng Computing student at Imperial College London. My current academic interests include:
+I am a final-year MEng Computing student at Imperial College London. I'm currently studying:
 
 * Hardware acceleration for machine learning (CUDA Programming)
 * Decentralised finance and smart contract development (Solidity)
@@ -38,9 +40,9 @@ During my internship, I:
 
 My final year project focuses on developing an NLP system to identify contradictions in public figures’ statements over time. This involves:
 
-* Natural language inference
-* Temporal analysis
-* Linguistic reasoning in real-world political discourse
+* Logical fallacy detection
+* Self-contradiction detection using temporal analysis
+* Real-time analysis of public speech
 
 ---
 
