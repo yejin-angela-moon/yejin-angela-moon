@@ -11,6 +11,7 @@ Contact [ym1721@ic.ac.uk](ym1721@ic.ac.uk)
 ## Who's Angela? 
 
 ✏️ I am a final-year MEng Computing student at Imperial College London.
+
 🌱 I'm currently interested in: 
   * Hardware acceleration for machine learning (CUDA Programming)
   * Decentralised finance and smart contract development (Solidity)
