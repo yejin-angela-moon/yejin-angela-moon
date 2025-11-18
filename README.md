@@ -10,7 +10,7 @@ Contact [ym1721@ic.ac.uk](ym1721@ic.ac.uk)
 
 ## About Me
 
-I am a final-year MEng Computing student at Imperial College London. I'm currently studying:
+I am a final-year MEng Computing student at Imperial College London. For this term, I'm currently studying:
 
 * Hardware acceleration for machine learning (CUDA Programming)
 * Decentralised finance and smart contract development (Solidity)
