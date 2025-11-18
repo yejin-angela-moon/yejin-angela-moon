@@ -1,4 +1,4 @@
-### 👋 Hi there, I'm Angela 
+### 👋 Hi there, I'm Angela!
 
 Visit my [LinkedIn](linkedin.com/in/angela-y-moon)
 
