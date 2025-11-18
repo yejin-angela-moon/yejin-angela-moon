@@ -48,41 +48,71 @@ My final year project focuses on developing an NLP system to identify contradict
 
 ### Languages
 
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=white" />
-</p>
-
-### Frameworks & Tools
-
-<p>
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Foundry-555555?logo=foundry&logoColor=white" />
-</p>
-
-### Databases & Infrastructure
-
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" />
-</p>
-
-### Other Technologies
-
-<p>
-  <img src="https://img.shields.io/badge/CUDA-76B900?logo=nvidia&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI_API-412991?logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
-</p>
+<table>
+  <tr>
+    <td><img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/Scala-DC322F?logo=scala&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/Solidity-363636?logo=solidity&logoColor=white" /></td>
+    <td></td>
+  </tr>
+</table>
 
 ---
 
-If you want, I can make this even tighter (minimal version), more academic, or styled like a portfolio website.
+### Frameworks & Tools
+
+<table>
+  <tr>
+    <td><img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" /></td>
+    <td><img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/Foundry-555555?logo=foundry&logoColor=white" /></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
+
+---
+
+### Databases & Infrastructure
+
+<table>
+  <tr>
+    <td><img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" /></td>
+    <td></td>
+  </tr>
+</table>
+
+---
+
+### Other Technologies
+
+<table>
+  <tr>
+    <td><img src="https://img.shields.io/badge/CUDA-76B900?logo=nvidia&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/OpenAI_API-412991?logo=openai&logoColor=white" /></td>
+    <td><img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" /></td>
+    <td></td>
+  </tr>
+</table>
+
+---
+
