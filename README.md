@@ -1,6 +1,4 @@
-# Angela Moon
-
-Welcome to my Github👋
+### 👋 Hi there, I'm Angela 
 
 Visit my [LinkedIn](linkedin.com/in/angela-y-moon)
 
@@ -8,7 +6,7 @@ Contact [ym1721@ic.ac.uk](ym1721@ic.ac.uk)
 
 ---
 
-## Who's Angela? 
+## Who am I?
 
 ✏️ I am a final-year MEng Computing student at Imperial College London.
 
