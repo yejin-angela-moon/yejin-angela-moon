@@ -10,10 +10,16 @@ Contact [ym1721@ic.ac.uk](ym1721@ic.ac.uk)
 
 ✏️ I am a final-year MEng Computing student at Imperial College London.
 
-🌱 What I am studying for final year Term 1: 
+🌷 What I studied final year Term 1: 
   * Hardware acceleration for machine learning (CUDA Programming)
   * Decentralised finance and smart contract development (Solidity)
-  * Computational modelling and simulation of neuronal activity 
+  * Computational modelling and simulation of neuronal activity
+
+🌱 What I am studying final year Term 2:
+  * Natural Language Processing
+  * Deep Learning and Generative AI
+  * Machine Learning for Medical Imaging
+  * Communicating Computer Science in Schools
 
 I enjoy connecting low-level systems knowledge with high-level design and product thinking.
 
