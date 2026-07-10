@@ -1,4 +1,4 @@
-# 👩🏻‍💻🙋🏻‍♀️ Hi there, I'm Angela!
+# Committed and Pushed by Angela
 
 Visit my [LinkedIn](linkedin.com/in/angela-y-moon)
 
@@ -8,41 +8,42 @@ Contact [ym1721@ic.ac.uk](ym1721@ic.ac.uk)
 
 ## Who am I?
 
-✏️ I am a final-year MEng Computing student at Imperial College London.
-
-🌷 What I studied final year Term 1: 
-  * Hardware acceleration for machine learning (CUDA Programming)
-  * Decentralised finance and smart contract development (Solidity)
-  * Computational modelling and simulation of neuronal activity
-
-🌱 What I am studying final year Term 2:
-  * Natural Language Processing
-  * Deep Learning and Generative AI
-  * Machine Learning for Medical Imaging
-  * Communicating Computer Science in Schools
-
+I am an MEng Computing graduate from Imperial College London.
+I am a full-stack developer at Solidatus.
 I enjoy connecting low-level systems knowledge with high-level design and product thinking.
 
 ---
 
-## Software Engineering Intern — Solidatus
+## Software Engineering — Solidatus
 
-💎 Solidatus is a B2B SaaS company building a data lineage platform for global financial institutions.
-During my internship, I:
+**Solidatus** is a B2B SaaS company building a data lineage platform for global financial institutions.
+During my internship, I am:
 
-* Built an agentic AI system embedded directly into the model editor
-* Worked closely with UX designers to make the platform more accessible for non-technical users
-* Gained experience in financial data lineage, enterprise data structures, and cross-team engineering
+* Building an agentic AI system embedded directly into the model editor
+* Working with financial data lineage, enterprise data structures, and cross-team engineering
 
 ---
 
-## Final Year Project (in progress)
+## Final Year Project
 
 ⚒️ My final year project focuses on developing an NLP system to identify contradictions in public figures’ statements over time. This involves:
 
 * Logical fallacy detection
 * Self-contradiction detection using temporal analysis
 * Real-time analysis of public speech
+
+---
+
+## Final Year Modules
+
+In my final year, I studied: 
+  * Hardware acceleration for machine learning (CUDA Programming)
+  * Decentralised finance and smart contract development (Solidity)
+  * Computational modelling and simulation of neuronal activity
+  * Natural Language Processing
+  * Deep Learning and Generative AI
+  * Machine Learning for Medical Imaging
+  * Communicating Computer Science in Schools
 
 ---
 
