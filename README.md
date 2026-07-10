@@ -26,10 +26,10 @@ During my internship, I am:
 
 ## Final Year Project
 
-⚒️ My final year project focuses on developing an NLP system to identify contradictions in public figures’ statements over time. This involves:
+My final year project focuses on developing an NLP system to identify contradictions in public figures’ statements over time. This involves:
 
 * Logical fallacy detection
-* Self-contradiction detection using temporal analysis
+* Contradiction detection
 * Real-time analysis of public speech
 
 ---
